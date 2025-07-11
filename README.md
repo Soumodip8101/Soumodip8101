@@ -40,6 +40,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
   <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" />
   <img src="https://skillicons.dev/icons?i=c&theme=dark" />
   <img src="https://skillicons.dev/icons?i=css&theme=dark" />
@@ -54,7 +55,6 @@
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
   <img src="https://skillicons.dev/icons?i=nginx&theme=dark" />
   <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=oracle&theme=dark" />
   <img src="https://skillicons.dev/icons?i=photoshop&theme=dark" />
   <img src="https://skillicons.dev/icons?i=php&theme=dark" />
 </p>
