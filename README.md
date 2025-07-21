@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Hi, I'm <span style="color:#00ffee">Soumodip Dey Sarkar</span></h1>
+<h1 align="center"> Hi, I'm <span style="color:#00ffee">Soumodip Dey Sarkar</span></h1>
 <h3 align="center">💻 Passionate Developer | 🌍 From India</h3>
 
 <p align="center">
